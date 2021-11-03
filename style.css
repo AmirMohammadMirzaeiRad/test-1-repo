@@ -4,8 +4,12 @@ body {
 }
 * {
   box-sizing: border-box;
+  margin: 0;
 }
 
 input {
   outline: 5px solid yellow;
+}
+input::-webkit-file-upload-button {
+  appearance: none;
 }
