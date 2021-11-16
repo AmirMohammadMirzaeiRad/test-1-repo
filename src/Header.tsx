@@ -1,3 +1,5 @@
 const Header = (
-<div class="md:hello"></div>
-)
+  <>
+    <div class="md:hello"></div>
+  </>
+);
