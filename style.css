@@ -8,8 +8,10 @@ body {
 }
 
 input {
+  box-shadow: 4px solid orange;
   outline: 5px solid yellow;
 }
 input::-webkit-file-upload-button {
   appearance: none;
 }
+
